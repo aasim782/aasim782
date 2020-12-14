@@ -5,7 +5,7 @@
 - 🔭 I am a programmer 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Future aim to Contribute more to Open Source projects
+- 🥅 2021 Goals: My future aim to be contribute more Open Source projects
 - ⚡ Fun fact: I love to work technical works (Elecrtronic equipment repair) and play computer games
 
 ### Connect with me:
