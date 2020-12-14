@@ -1,4 +1,4 @@
-### Hi there, I'm Aasim 👋
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">Hi there, I'm Aasim
 
 
 
@@ -11,7 +11,7 @@ Say you somehow figured out where's the "any" key...
 
 
 
-## I'm a Developer !!
+## 🔭 I’m currently looking for new opportunities .!!
 
 - 🔭 I am a programmer 
 - 🌱 I’m currently learning everything 🤣
