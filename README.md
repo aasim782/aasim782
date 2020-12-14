@@ -1,4 +1,4 @@
-### <img alt="Night Coding" src="/AVS1508/AVS1508/raw/master/assets/Hand%20Wave.gif" width="40" align="left" style="max-width:100%;">👨&zwj;💻</g-emoji>
+### <a target="_blank" rel="noopener noreferrer" href="/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"><img alt="Night Coding" src="/AVS1508/AVS1508/raw/master/assets/Hand%20Wave.gif" width="40" align="left" style="max-width:100%;"></a>👨&zwj;💻</g-emoji>
 
 
 
