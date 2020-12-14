@@ -51,12 +51,11 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[website]: https://www.linkedin.com/in/mohamed-aasim-450098120
+[twitter]: https://twitter.com/aashim782
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/aasimmam782/
+[linkedin]: https://www.linkedin.com/in/mohamed-aasim-450098120/
 
 
 
