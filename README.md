@@ -14,6 +14,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/medium.svg" />][medium]
 
 <br />
 
@@ -61,6 +62,6 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/aasimmam782/
 [linkedin]: https://www.linkedin.com/in/mohamed-aasim-450098120/
-
+[medium]:https://medium.com/@aasim782
 
 
