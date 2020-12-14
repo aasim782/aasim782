@@ -1,5 +1,14 @@
 ### Hi there, I'm Aasim [website] 👋
 
+
+
+<img align="left" src="https://camo.githubusercontent.com/697555817624aa6d1ddb9863706af235e6f11eae67f131cef465cb012620c8a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f767055527149767075446775512f67697068792e676966" />
+
+
+Say you somehow figured out where's the "any" key...
+
+
+
 ## I'm a Developer !!
 
 - 🔭 I am a programmer 
