@@ -2,11 +2,9 @@
 
 
 
-<img align="left" src="https://camo.githubusercontent.com/697555817624aa6d1ddb9863706af235e6f11eae67f131cef465cb012620c8a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f767055527149767075446775512f67697068792e676966" />
-<br>
-<br>
-<br>
-<br>
+<p align="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/697555817624aa6d1ddb9863706af235e6f11eae67f131cef465cb012620c8a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f767055527149767075446775512f67697068792e676966"><img src="https://camo.githubusercontent.com/697555817624aa6d1ddb9863706af235e6f11eae67f131cef465cb012620c8a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f767055527149767075446775512f67697068792e676966" width="50%" data-canonical-src="https://media.giphy.com/media/vpURqIvpuDguQ/giphy.gif" style="max-width:100%;"></a>
+</p>
 
 
 Say you somehow figured out where's the "any" key...
