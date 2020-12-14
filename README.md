@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: My future aim to be contribute more Open Source projects
-- ⚡ Fun fact: I love to work technical works (Elecrtronic equipment repair) and play computer games
+- ⚡ Fun fact: I love to work technical works (Electronic equipment repairing) and play computer games
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/gmail.svg" />][gmail]
