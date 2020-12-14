@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">Hi there, I'm Aasim
+### <img alt="Night Coding" src="/AVS1508/AVS1508/raw/master/assets/Hand%20Wave.gif" width="40" align="left" style="max-width:100%;">👨&zwj;💻</g-emoji>
 
 
 
