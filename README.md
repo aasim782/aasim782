@@ -1,4 +1,4 @@
-### Hi there, I'm Aasim [website] 👋
+### Hi there, I'm Aasim 👋
 
 
 
