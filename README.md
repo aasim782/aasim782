@@ -18,7 +18,7 @@
 - 🎓 Reading Bachelor of Information Technology at University of Moratuwa (Final year).
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: My future aim to be contribute more Open Source projects
+- 🥅 2021 Goals: Aim to be contribute more Open Source projects
 - ⚡ Fun fact: I love to work technical works (Electronic equipment repairing) and play computer games
 
 ### Connect with me:
