@@ -13,8 +13,8 @@
 
 
 ## 🔭 I’m currently looking for new opportunities .!!
-- 🎓 Reading Bachelor of Information Technology at University of Moratuwa (Final year).
-- 🎓 I have successfully completed Higher National Diploma in Information Technology –(AVG.GPA 3.6)
+- 🎓 I have successfull completed the Bachelor of Information Technology at University of Moratuwa .
+- 🎓 I have successfully completed the Higher National Diploma in Information Technology –(Second class upper division)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Aim to be contribute more Open Source projects
