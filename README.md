@@ -17,7 +17,7 @@
 - 🎓 I have successfully completed the Higher National Diploma in Information Technology –
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Aim to be contribute more Open Source projects
+- 🥅 2022 Goals: Aim to be contribute more Open Source projects
 - ⚡ Fun fact: I love to work technical works (Electronic equipment repairing) and play computer games
 
 ### Connect with me:
