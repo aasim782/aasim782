@@ -12,8 +12,8 @@
 
 
 
-## 🔭 I’m currently looking for new opportunities .!!
-- 🎓 I have successfull completed the Bachelor of Information Technology at University of Moratuwa - (Second class upper division)
+## 🔭 I’m working as a Software Engineer .!!
+- 🎓 I have successfull completed the Bachelor of Information Technology at University of Moratuwa.
 - 🎓 I have successfully completed the Higher National Diploma in Information Technology –
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -21,6 +21,7 @@
 - ⚡ Fun fact: I love to work technical works (Electronic equipment repairing) and play computer games
 
 ### Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/sap.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
