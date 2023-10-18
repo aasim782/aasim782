@@ -13,12 +13,11 @@
 
 
 ## 🔭 I’m working as a Software Engineer .!!
-- 🎓 I have successfull completed the Bachelor of Information Technology at University of Moratuwa.
-- 🎓 I have successfully completed the Higher National Diploma in Information Technology –
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Aim to be contribute more Open Source projects
-- ⚡ Fun fact: I love to work technical works (Electronic equipment repairing) and play computer games
+- 🎓 Completed the Bachelor of Information Technology at University of Moratuwa.
+- 🌱 I’m learning the world 🤣
+- 👯 I’m looking to collaborate with other Open Source project contributors
+- 🥅 2024 Goals: Aim to be contribute more Open Source projects
+- ⚡ Fun fact: I love to work technical works (Electronic equipment repairing)
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/gmail.svg" />][gmail]
